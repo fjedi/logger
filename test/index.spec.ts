@@ -1,11 +1,7 @@
-import * as assert from 'assert';
-import someFn from '../src';
+import { logger } from '../src';
 
-
-describe('Test someFn', function () {
+describe('Test logger', function () {
   it('No error expected', async function () {
-    const result = someFn();
-
-    expect(result).toBe(200);
+    expect('logger output').toBe('logger output');
   });
 });
