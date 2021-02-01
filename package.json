@@ -1,6 +1,6 @@
 {
   "name": "@fjedi/logger",
-  "version": "1.37.0",
+  "version": "1.38.0",
   "description": "Fast and fancy logger",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -39,7 +39,7 @@
   "dependencies": {
     "@types/pino": "6.3.5",
     "pino": "6.11.0",
-    "pino-pretty": "4.4.0"
+    "pino-pretty": "4.5.0"
   },
   "devDependencies": {
     "@types/expect": "24.3.0",
