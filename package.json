@@ -1,6 +1,6 @@
 {
   "name": "@fjedi/logger",
-  "version": "1.46.0",
+  "version": "1.46.1",
   "description": "Fast and fancy logger",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
