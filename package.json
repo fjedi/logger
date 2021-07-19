@@ -39,7 +39,7 @@
   "dependencies": {
     "@types/pino": "6.3.9",
     "pino": "6.12.0",
-    "pino-pretty": "5.1.1"
+    "pino-pretty": "5.1.2"
   },
   "devDependencies": {
     "@types/expect": "24.3.0",
