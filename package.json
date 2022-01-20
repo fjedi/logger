@@ -38,7 +38,7 @@
   "homepage": "https://github.com/fjedi/logger#readme",
   "dependencies": {
     "@types/pino": "7.0.4",
-    "pino": "7.6.3",
+    "pino": "7.6.4",
     "pino-pretty": "7.4.0"
   },
   "devDependencies": {
